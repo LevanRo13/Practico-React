@@ -1,8 +1,9 @@
+import ProductTable from "../components/ProductTable/ProductTable"
 
 const Administracion = () => {
   return (
     <div>
-        Administracion
+        <ProductTable/>
     </div>
   )
 }
